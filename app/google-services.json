@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "395339887068",
+    "project_id": "senapp-2bfa1",
+    "storage_bucket": "senapp-2bfa1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395339887068:android:480984f2c031ba27005f19",
+        "android_client_info": {
+          "package_name": "com.senapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnZyxcRzRlMvwzkZO6J__jGYyHMUxNTU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
