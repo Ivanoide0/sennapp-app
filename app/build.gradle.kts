@@ -28,7 +28,7 @@ android {
             buildConfigField(
                 "String",
                 "INTERPRET_BASE_URL",
-                "\"http://192.168.18.46:8080\""
+                "\"http://192.168.1.69:8080\""
             )
         }
         release {
@@ -41,7 +41,7 @@ android {
             buildConfigField(
                 "String",
                 "INTERPRET_BASE_URL",
-                "\"http://192.168.18.46:8080\""
+                "\"http://192.168.1.69:8080\""
             )
         }
     }
